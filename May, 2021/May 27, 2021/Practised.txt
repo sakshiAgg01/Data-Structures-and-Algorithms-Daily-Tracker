@@ -1,0 +1,13 @@
+Revised Lecture:10
+
+Character Arrays:
+1. Trim Spaces
+2. Reverse word wise
+3. Print all substrings
+4. Check Permutation
+5. Remove Consecutive Duplicates.
+
+2-D Arrays:
+1. Column wise sum
+2. Find largest row or column
+3. Wave print
