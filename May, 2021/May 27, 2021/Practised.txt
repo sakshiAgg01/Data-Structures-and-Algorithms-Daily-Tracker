@@ -6,6 +6,10 @@ Character Arrays:
 3. Print all substrings
 4. Check Permutation
 5. Remove Consecutive Duplicates.
+6. Reverse each word
+7. Remove character
+8. Highest occuring character
+9. Compress the String
 
 2-D Arrays:
 1. Column wise sum
