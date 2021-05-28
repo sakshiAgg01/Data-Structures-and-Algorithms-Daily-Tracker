@@ -1,0 +1,9 @@
+Revised: Lecture 10, Test 2
+
+1-D arrays and 2-D arrays:
+1. Print 2-D array.
+2. Leaders in array.
+3. Spiral Print
+
+Character arrays:
+1. Find minimum length word.
