@@ -2,3 +2,7 @@ Revised: From notes
 
 1. Pointers
 2. Dynamic Memory Allocation
+
+GeeksForGeeks article:
+
+https://www.geeksforgeeks.org/difference-between-p-p-and-p/

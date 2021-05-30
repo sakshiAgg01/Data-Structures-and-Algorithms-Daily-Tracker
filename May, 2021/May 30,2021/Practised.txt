@@ -1,0 +1,5 @@
+Data Structures and Algorithms 
+
+Revised: Lecture 1
+
+1. Pointers
