@@ -1,0 +1,20 @@
+Revised: Lecture 2, Lecture 3
+
+1. Dynamic Memory Allocation
+
+2. Recursion
+
+Problems:
+1. Power of a number.
+2. Print numbers in reverse order.
+3. Number of digits.
+4. Sum of Array.
+5. Check Number.
+6. First index of number.
+7. Last index of number.
+8. All indices of number.
+9. Multiplication (recursive).
+10. Count Zeros.
+11. Geometric Sum
+12. Check Palindrome (recursive).
+13. Sum of digits. (recursive).
