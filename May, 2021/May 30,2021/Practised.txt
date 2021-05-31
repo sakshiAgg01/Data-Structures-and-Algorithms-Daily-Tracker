@@ -3,3 +3,6 @@ Data Structures and Algorithms
 Revised: Lecture 1
 
 1. Pointers
+
+GeeksForGeeks article:
+https://www.geeksforgeeks.org/unusual-behaviour-with-character-pointers/
