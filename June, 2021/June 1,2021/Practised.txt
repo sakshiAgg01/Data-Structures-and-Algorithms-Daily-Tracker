@@ -6,3 +6,6 @@ Problems:
 3. Merge Sort.
 4. Quick Sort.
 5. Return subsequences of a string.
+6. Return keypad code.
+7. Print subsequences of a string.
+8. Print Keypad Combinations code.
