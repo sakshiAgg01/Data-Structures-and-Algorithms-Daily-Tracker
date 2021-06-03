@@ -1,0 +1,10 @@
+Revised: Lecture 4
+
+Recursion 2
+
+Problems:
+1. Return subset sum to k.
+2. Print subset sum to k.
+3. Return all codes.
+4. Print all codes.
+5. Print permutations of a string.
