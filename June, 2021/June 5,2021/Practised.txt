@@ -1,0 +1,3 @@
+1. Dry-runned recursive problems from Assignment : Recursion 1b and Recursion 2.
+
+2. Attended Ankush Sir's "Recursion for Humanity" 3 hours class.
