@@ -1,0 +1,10 @@
+Revised: Lecture 5
+
+Time and Space Complexity
+
+Problems:
+1. Array Intersection
+2. Pair sum in array
+3. Triplet sum
+4. Rotate array
+5. Check array rotation
