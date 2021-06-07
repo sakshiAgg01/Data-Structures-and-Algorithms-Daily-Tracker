@@ -1,0 +1,6 @@
+Revised: Test 1
+
+Problems:
+1. Does s contain t?
+2. Maximum profit on app
+3. Split array
