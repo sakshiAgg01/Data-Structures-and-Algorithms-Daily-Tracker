@@ -1,0 +1,6 @@
+Revised from notes: OOPS1, OOPS2.
+Revised: Lecture 6, some part of Lecture 7.
+
+Problems Solved:
+1. Fraction class.
+2. Complex Numbers class.
