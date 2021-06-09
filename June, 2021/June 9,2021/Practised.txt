@@ -1,0 +1,7 @@
+Revised: OOPS 2
+
+Total classes implemented till now:
+1. Fraction class.
+2. Complex Numbers class.
+3. Dynamic Array class.
+4. Polynomial class.
