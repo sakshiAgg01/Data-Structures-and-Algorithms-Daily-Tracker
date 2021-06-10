@@ -1,0 +1,19 @@
+Revised: Lecture 8
+
+Linked List 1
+
+Problems Solved:
+1. Print the Linked List.
+2. Take input a Linked List in O(N^2) method.
+3. Take input a Linked List in O(N) method.
+4. Find length of Linked List. (Iterative)
+5. Print ith node in Linked List.
+6. Insert node at ith position (Iterative).
+7. Delete node at ith position (Iterative).
+8. Find length of Linked List. (Recursive)
+9. Insert node at ith position. (Recursive)
+10. Delete node from ith position. (Recursive)
+11. Find a node in Linked List.
+12. AppendLastNToFirst.
+13. Eliminate duplicates from Linked List.
+14. Print reverse Linked List.
