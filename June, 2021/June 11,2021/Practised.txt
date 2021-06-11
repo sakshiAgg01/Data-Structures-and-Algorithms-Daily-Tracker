@@ -1,0 +1,15 @@
+Revised: Lecture 9
+
+Linked List 2
+
+Problems Solved:
+1. Fid midpoint of linked list.
+2. Merge two sorted linked lists.
+3. Merse Sort.
+4. Reverse linked list (Recursive O(N^2)).
+5. Reverse linked list using Pair class. (Recursive)
+6. Reverse linked list. (Best approach).
+7. Reverse linked list. (Iterative approach)
+8. Find a node in linked list. (Recursive)
+9. Even after Odd linked list.
+10. Delete every N nodes.
