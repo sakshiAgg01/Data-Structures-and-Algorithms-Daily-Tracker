@@ -1,0 +1,6 @@
+Revised: Linked List 2, Stacks and Queues
+
+Problem Solved:
+1. Bubble Sort (Iterative).
+
+#Revised Stacks and Queues from notes.
