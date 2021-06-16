@@ -1,0 +1,24 @@
+Revised: Stacks and Queues
+
+Problems Solved:
+1. Implementation of Stack using Array.
+https://gist.github.com/Ssakshii/f90599b7b9416048172bc85569096b90
+
+2. Implementation of Stack using Dynamic Array
+https://gist.github.com/Ssakshii/77fdbbc0711d87ab56b8f06a68d90a0e
+
+3. Implementation of Stack using Templates
+https://gist.github.com/Ssakshii/b0ff3b0e2241dac24ff232b5fe90504d
+
+4. Implementation of Stack using Linked List
+5. Inbuilt Stack.
+https://gist.github.com/Ssakshii/0f54dadbea1ebec8cc53d71b7f8d8016
+
+6. Queue using Array.
+https://gist.github.com/Ssakshii/405f2df1f4c4eb2bab0d1a38783c574b
+
+7. Queue using Dynamic Array
+https://gist.github.com/Ssakshii/c289cdea1b8b70f8627826dfc87e7133
+
+8. Queue using Templates
+9. Queue using Linked List.
