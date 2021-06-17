@@ -1,0 +1,8 @@
+Revised: Stacks and Queues
+
+Problems Solved:
+1. Reverse a stack.
+2. Reverse a Queue.
+3. Check redundant brackets.
+4. Stock Span.
+5. Minimum bracket reversal.
