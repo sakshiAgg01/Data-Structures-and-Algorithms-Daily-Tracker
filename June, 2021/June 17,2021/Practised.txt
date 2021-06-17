@@ -1,8 +1,13 @@
-Revised: Stacks and Queues
+Revised: Stacks and Queues, Test 2
 
 Problems Solved:
+
+Stacks and Queues
 1. Reverse a stack.
 2. Reverse a Queue.
 3. Check redundant brackets.
 4. Stock Span.
 5. Minimum bracket reversal.
+
+Test 2
+1. Delete Alternate Nodes.
