@@ -1,5 +1,14 @@
-Revised: Test 2
+Revised: Test 2, Trees
 
 Problems Solved:
-1. Next Number
-2. Dequeue
+
+Test 2
+1. Next Number.
+2. Dequeue.
+
+Trees
+1. Take input and print recursive.
+2. Take input level wise.
+3. Print level wise.
+4. Count nodes.
+5. Max data node.
