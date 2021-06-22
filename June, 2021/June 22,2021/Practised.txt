@@ -12,3 +12,4 @@ Trees
 3. Print level wise.
 4. Count nodes.
 5. Max data node.
+6. Find height.
