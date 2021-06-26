@@ -1,0 +1,8 @@
+Revised: Trees
+
+Problems Solved:
+1. Node with maximum child sum.
+2. Structurally identical.
+3. Next larger.
+4. Second Largest element in Tree
+5. Replace with depth.
