@@ -9,3 +9,4 @@ Problems solved:
 4. Diameter of Binary Tree Approach 2.
 5. Min and Max of binary tree.
 6. Sum of nodes.
+7. Check Balanced.
