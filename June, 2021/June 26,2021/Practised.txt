@@ -1,0 +1,16 @@
+Revised: Lecture 12
+
+Binary Trees
+
+Problems Solved:
+1. BinaryTree class creation.
+2. Take input a tree (recursive).
+3. Print binary tree (recursive).
+4. Take input a tree level wise.
+5. Print binary tree level wise.
+6. Count nodes in binary tree.
+7. Find a node in binary tree.
+8. Height of binary tree.
+9. Mirror image.
+10. PreOrder traversal
+11. PostOrder traversal.
