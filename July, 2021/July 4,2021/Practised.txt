@@ -1,0 +1,11 @@
+Revised: Lecture 12
+
+Binary Trees
+
+Problems solved:
+1. Construct Tree from Preorder and  Inorder.
+2. Construct tree from Postorder and Inorder.
+3. Diameter of Binary Tree Approach 1.
+4. Diameter of Binary Tree Approach 2.
+5. Min and Max of binary tree.
+6. Sum of nodes.
