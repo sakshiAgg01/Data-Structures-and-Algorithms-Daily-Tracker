@@ -1,0 +1,15 @@
+Revised: Lecture 12, Lecture 13
+
+Binary Tree
+
+Problems Solved:
+1. Level order traversal of binary tree.
+2. Remove leaf nodes in binary tree.
+3. Level wise linked list.
+4. Nodes without sibling.
+5. Zig-Zag tree (doubt)
+
+Binary Search Tree
+
+Problems Solved:
+1. Search in BST.
