@@ -1,0 +1,14 @@
+Revised: Lecture 13
+
+Binary Search Trees(BST)
+
+Problems Solved:
+1. Print elements in range. (doubt)
+2. Check if binary tree is BST (method-1).
+3. Check if binary tree is BST (method-2).
+4. Check if binary tree is BST (method-3).
+5. Construct BST from sorted array.
+6. BST to sorted linked list.
+7. Root to node path in binary tree.
+8. Find path in BST.
+9. BST class (constrcutor, destructor, search, remove, insert).
