@@ -1,0 +1,11 @@
+Revised: Lecture 13
+
+Binary Search Tree
+
+Problems Solved:
+1. BST class implementation.
+2. Create & insert duplicate node.
+3. Pair sum binary tree.
+4. LCA of binary tree.(doubt)
+5. LCA of BST.
+6. Largest BST.
