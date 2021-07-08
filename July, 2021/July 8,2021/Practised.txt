@@ -1,0 +1,7 @@
+Revised: Lecture 13
+
+Binary Search Tree
+
+Problems Solved:
+1. Replace with sum of  greater nodes.
+2. Path sum root to leaf.
