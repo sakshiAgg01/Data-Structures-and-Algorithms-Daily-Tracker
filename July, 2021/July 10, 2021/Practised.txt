@@ -1,5 +1,9 @@
-Revised: Test 3
+Revised: Test 3, Priority Queues
 
 Problems Solved:
 1. Check cousins.
 2. Longest leaf to root path.
+
+3. Implementation of priority queues.
+4. Remove min
+5. Max priority queue.
