@@ -1,0 +1,7 @@
+Revised: Lecture 13
+
+Binary Search Tree
+
+Problem Solved:
+1. Pair sum in a BST.
+2. Print nodes at distance k from node. (doubt)
