@@ -7,3 +7,4 @@ Problems Solved:
 3. Implementation of priority queues.
 4. Remove min
 5. Max priority queue.
+6. Check max heap.
