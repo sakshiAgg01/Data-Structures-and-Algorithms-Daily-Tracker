@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #include <queue>
-
+//SORT A K-SORTED ARRAY
 void kSortedArray(int input[], int n, int k)
 {
     priority_queue<int> pq;
