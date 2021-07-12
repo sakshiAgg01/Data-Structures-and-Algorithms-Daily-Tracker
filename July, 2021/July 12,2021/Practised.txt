@@ -1,0 +1,10 @@
+Revised: Lecture 14
+
+Priority Queues
+
+Problems Solved:
+1. In-place heap sort
+2. k-sorted array
+3. k-smallest elements
+4. k-largest elements
+5. kth largest element
