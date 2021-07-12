@@ -8,3 +8,4 @@ Problems Solved:
 3. k-smallest elements
 4. k-largest elements
 5. kth largest element
+6. Merge k-sorted arrays.
