@@ -1,9 +1,10 @@
-Revised: Lecture 15
+Revised: Lecture 14, Lecture 15
+
+Priority Queues
+1. Running Median
+
 
 Hashmap
-
-Problems Solved:
-
 1. Remove duplicates
 2. Maximum Frequency Number
 3. Print intersection
