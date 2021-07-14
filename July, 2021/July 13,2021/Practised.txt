@@ -1,0 +1,12 @@
+Revised: Lecture 15
+
+Hashmap
+
+Problems Solved:
+
+1. Remove duplicates
+2. Maximum Frequency Number
+3. Print intersection
+4. Extract unique characters
+5. Pairs with difference k
+6. Longest subset zero sum
