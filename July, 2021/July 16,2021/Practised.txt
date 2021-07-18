@@ -1,5 +1,4 @@
 Revised:Lecture 17
 
 DP 1
-1. Fibonacci Recursive, Memoization, DP
-2. Min steps to 1 Recursive, Memoization, DP
+1.Min steps to 1 Recursive, Memoization, DP
