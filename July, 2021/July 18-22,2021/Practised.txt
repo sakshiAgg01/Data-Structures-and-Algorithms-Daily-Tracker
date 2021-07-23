@@ -1,0 +1,3 @@
+1. Revised Tries
+2. Watched online videos on DP (Aditya verma).
+3. Revised lectures from CN course.
