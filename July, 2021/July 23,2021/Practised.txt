@@ -1,0 +1,12 @@
+Revised: Lecture 19
+Graphs
+
+1. DFS traversal
+2. BFS traversal
+3. DFS & BFS for disconnected graph
+4. Has Path
+5. Get Path - DFS
+6. Get Path - BFS
+7. is Connected?
+8. All Connected Components
+9. Islands
