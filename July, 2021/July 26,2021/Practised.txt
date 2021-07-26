@@ -1,0 +1,6 @@
+Revised: Lecture 20
+Graphs 2
+
+Problems Solved:
+1. Kruskal's algo
+2. Prim's algo
