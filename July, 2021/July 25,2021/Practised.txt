@@ -1,0 +1,8 @@
+Revised: Lecture 19
+Graphs
+
+Problems Solved:
+1. Coding Ninjas
+2. Connecting Dots
+3. Largest Piece
+4. 3 Cycle
