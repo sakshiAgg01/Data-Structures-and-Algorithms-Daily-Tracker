@@ -1,0 +1,6 @@
+Revised: Lecture 19, 20
+
+Graph1, Graph 2
+
+1. Djikstra's Algo 
+2. Graph 1 problems
